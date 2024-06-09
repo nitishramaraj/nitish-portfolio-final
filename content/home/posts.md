@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 50
 
 title: Posts
 subtitle: Sharing my Experiences and Interests

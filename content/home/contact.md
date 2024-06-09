@@ -18,12 +18,11 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
+      id: mwkggeaz
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: "2"
