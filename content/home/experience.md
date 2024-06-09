@@ -28,12 +28,12 @@ experience:
     location: Surathkal, Karnataka
     date_start: "2024-05-01"
     date_end: ""
-    description: "Working on Deep Learning using Tensorflow and Keras"
+    description: "Working on Medical Image Analysis- Using Tensorflow and Keras"
   - title: Software Developer Intern
     company: Invenger Technologies
     company_url: "https://invenger.in/"
     location: Mangalore, Karnataka
     date_start: "2022-12-19"
     date_end: "2023-12-31"
-    description: "  Worked on the ERP implementations across various industries in Middle Eastern countries. Through strategic deployment of these technologies, I played a crucial role in the entire process. Additionally, I streamlined operations to enhance efficiency and facilitate smooth workflows. By optimizing processes, customizing the ERP to meet specific client requirements, and ensuring seamless operations, I was able to improve the overall customer experience."
+    description: Worked on the ERP implementations across various industries in Middle Eastern countries. Through strategic deployment of these technologies, I played a crucial role in the entire process. I handled development and maintenance activities. By optimizing processes, customizing the ERP to meet specific client requirements, and ensuring seamless operations, I was able to improve the overall customer experience.
 ---
