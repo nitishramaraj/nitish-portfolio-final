@@ -28,7 +28,7 @@ experience:
     location: Surathkal, Karnataka
     date_start: "2024-05-01"
     date_end: ""
-    description: "Working on Medical Image Analysis- Using Tensorflow and Keras"
+    description: "Working on Medical Image Analysis Project- Using Tensorflow and Keras"
   - title: Software Developer Intern
     company: Invenger Technologies
     company_url: "https://invenger.in/"
