@@ -23,11 +23,11 @@ publishDate: "2024-05-17T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Scopus Journal**
-publication_short: In *Journal*
+publication: In *Thomas and Francis Journal**
+publication_short: In *T&F*
 
 abstract: "The rapid digitization of healthcare has led to a growing reliance on technology for storing and managing sensitive patient data, known as electronic health records (EHRs). This increasing dependence on digital systems has heightened concerns about the protection and security of this critical information. With multiple stakeholders involved in healthcare systems, ensuring the integrity and confidentiality of EHRs has become a paramount issue. The work proposes an integrated approach that leverages behavioural security to enhance the security of healthcare data. By tracking the behaviour of users accessing the system based on various parameters, a one-class Support Vector Machine (SVM) model is trained to detect anomalies in user behaviour. If any anomalies are detected, the system is configured to reduce access control for the respective user, effectively mitigating the risk of unauthorized access. This approach has demonstrated positive results in identifying and preventing the unauthorized use of the healthcare system. The implementation of this behavioural security framework, combined with the one-class SVM model, provides a robust and proactive solution to safeguard the confidentiality and integrity of sensitive patient data in the healthcare domain. By continuously monitoring user behaviour and adapting access controls accordingly, this work contributes to the development of more secure and trustworthy healthcare technology ecosystems."
 

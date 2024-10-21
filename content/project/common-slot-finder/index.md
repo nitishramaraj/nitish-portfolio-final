@@ -1,11 +1,11 @@
 ---
-title: Common Slot Finder
+title: Automated Free Slot Finder
 summary:
 tags:
   - ALL
   - AI
   - DEV
-date: "2023-05-27T00:00:00Z"
+date: "2022-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

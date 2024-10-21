@@ -18,16 +18,16 @@ bio: A student at Vellore Institute of Technology majoring in Computer Science, 
 
 # Interests to show in About widget
 interests:
-  - Web Development
+  - Web Technologies
+  - Medical Image Analysis
   - Deep Learning
-  - Computer Vision
   - Problem Solving
   - People Management
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Computer Science
+    - course: B.Tech in Computer Science - 8.76/10
       institution: Vellore Institute of Technology
       year:
     - course: Class 12- Karnataka State Board
@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:nitishramaraj@gmail.com"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=848BaeQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/nitishramaraj
@@ -57,7 +60,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: media/nitish-ramaraj-resume-apr.pdf
+    link: media/Nitish-Ramaraj-Web-Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-An undergraduate student majoring in Computer Science at Vellore Institute of Technology, I am deeply passionate about leveraging technology's transformative potential. With a robust foundation in Web Development and Computer Vision, I'm dedicated to exploring the forefront of innovation. My academic journey has equipped me with a diverse skill set, encompassing the creation of intuitive user interfaces and the implementation of cutting-edge machine learning algorithms. Moreover, it has provided invaluable opportunities to engage in groundbreaking research and real-world internships. I am particularly passionate about research, having spearheaded initiatives in deep learning, where I've explored novel approaches to solving complex problems. In addition to my academic pursuits, I harbor a keen interest in entrepreneurship, inspired by the prospect of translating innovative ideas into tangible solutions that address real-world challenges. Through my academic projects and internships, I have honed my entrepreneurial mindset, fostering creativity, resilience, and a results-driven approach. With multiple certifications validating my expertise, I am poised to make meaningful contributions at the intersection of technology, research, and entrepreneurship.
+As an undergraduate student majoring in Computer Science at Vellore Institute of Technology, I am driven by a commitment to using technology for social good, particularly in the realm of healthcare. My passion lies in leveraging Web Development and Artificial Intelligence to create innovative solutions that enhance accessibility and equity in healthcare systems. Throughout my academic journey, I have honed my skills in building intuitive web interfaces and implementing AI-driven technologies, empowering me to tackle real-world challenges. I am dedicated to exploring how technology can bridge gaps in healthcare delivery, ensuring that transformative solutions are available to all. With a focus on impactful work, I aim to contribute to a future where technology plays a pivotal role in making healthcare more inclusive and efficient.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/nitish-ramaraj-resume-apr.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Nitish-Ramaraj-Web-Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

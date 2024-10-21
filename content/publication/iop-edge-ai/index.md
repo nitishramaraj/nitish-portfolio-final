@@ -30,8 +30,8 @@ publishDate: "2024-05-17T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Physics*
-publication_short: In *JOP*
+publication: In *Springr Journal*
+publication_short: In *Srpingr*
 
 abstract: "The traditional classroom mode of learning remains highly effective for student learning. However, with the increasing
 presence of digital gadgets it has increased distractions for students making it challenging for students to maintain their focus levels
