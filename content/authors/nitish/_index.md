@@ -14,7 +14,7 @@ organizations:
     url: https://www.vit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A student at Vellore Institute of Technology majoring in Computer Science, passionate about building projects that solve real-world problems in the domains of Web Development, Artificial Intelligence, and Computer Vision.
+bio: Undergraduate computer science student passionate about web technologies and AI in healthcare. Focused on leveraging AI to create equitable and accessible healthcare solutions for all.
 
 # Interests to show in About widget
 interests:
