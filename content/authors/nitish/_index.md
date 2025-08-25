@@ -6,20 +6,20 @@ title: Nitish Ramaraj
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: Computer Science Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Vellore Institute of Technology
-    url: https://www.vit.ac.in/
+  - name: Columbia University
+    url: https://columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate computer science student passionate about web technologies and AI in healthcare. Focused on leveraging AI to create equitable and accessible healthcare solutions for all.
+bio: Gradute computer science student passionate about NLP and Systems. 
 
 # Interests to show in About widget
 interests:
-  - Web Technologies
-  - Medical Image Analysis
+  - NLP
+  - Systemd
   - Deep Learning
   - Problem Solving
   - People Management
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Computer Science - 8.76/10
+    - course: B.Tech in Computer Science - 8.86/10
       institution: Vellore Institute of Technology
       year:
     - course: Class 12- Karnataka State Board
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-As an undergraduate student majoring in Computer Science at Vellore Institute of Technology, I am driven by a commitment to using technology for social good, particularly in the realm of healthcare. My passion lies in leveraging Web Development and Artificial Intelligence to create innovative solutions that enhance accessibility and equity in healthcare systems. Throughout my academic journey, I have honed my skills in building intuitive web interfaces and implementing AI-driven technologies, empowering me to tackle real-world challenges. I am dedicated to exploring how technology can bridge gaps in healthcare delivery, ensuring that transformative solutions are available to all. With a focus on impactful work, I aim to contribute to a future where technology plays a pivotal role in making healthcare more inclusive and efficient.
+As a Computer Science Graduate student at Columbia University, I am fascinated by the intersection of Natural Language Processing and Systems. My academic journey has equipped me with hands-on experience in developing scalable systems and intelligent applications to solve complex problems. I am eager to explore how cutting-edge NLP techniques can enhance human-computer interaction and enable smarter, more responsive systems. Driven by curiosity and a passion for innovation, I strive to create technology that improves user experiences and addresses challenges across various industries.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Nitish-Ramaraj-Web-Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
