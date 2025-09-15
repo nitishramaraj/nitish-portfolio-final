@@ -19,7 +19,8 @@ bio: Gradute computer science student passionate about NLP and Systems.
 # Interests to show in About widget
 interests:
   - NLP
-  - Systemd
+  - Systems
+  - Full Stack Development
   - Deep Learning
   - Problem Solving
   - People Management
@@ -27,15 +28,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Computer Science - 8.86/10
+    - course: M.S in Computer Science
+        institution: Columbia University
+        year: Expected 2026
+    - course: B.S in Computer Science
       institution: Vellore Institute of Technology
-      year:
-    - course: Class 12- Karnataka State Board
-      institution: Expert PU College, Mangalore 2021
-      year: 91%
-    - course: Class 10- CBSE
-      institution: Cambridge School Mangalore 2019
-      year: 90%
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
