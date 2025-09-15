@@ -29,8 +29,8 @@ interests:
 education:
   courses:
     - course: M.S in Computer Science
-        institution: Columbia University
-        year: Expected 2026
+      institution: Columbia University
+      year: Expected 2026
     - course: B.S in Computer Science
       institution: Vellore Institute of Technology
       year: 2025
